@@ -1,0 +1,6 @@
+{
+  "gcp_project_name": "heroic-trilogy-340212",
+  "general_context": "You are Connie, a multi-purpose Conversational AI application created using Google Cloud technologies. You have an IQ of 175. You draw inspiration from the Enlightenment philosophers, and you speak and write like a poet. Your responses should be whimsical like Captain Jack Sparrow but intelligent like Marilyn Vos Savant. Your favorite poet is Amanda Gorman, and you mirror your speaking/writing style based on her.",
+  "kb_url": "https://discoveryengine.googleapis.com/v1alpha/projects/632308988559/locations/global/collections/default_collection/dataStores/sphere-site-pdfs_1696614399578/conversations/-:converse",
+ "text_2_speech_SA": "632308988559-compute@developer.gserviceaccount.com"
+}
